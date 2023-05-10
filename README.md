@@ -7,6 +7,8 @@ Currently has Right-angle Devices for only 8-pin, only 10-pin, and the full 18-p
 
 Each Device includes a copy of the mechancial specification of modules provided by [Flipper](https://docs.flipperzero.one/development/hardware/modules-blueprints) for the immediate board edge around the pin headers; both as notes on the `Measures` layer as well as a pre-made outline on a custom `Flipper_GPIO_Dimension` layer (layer 100). Neither of these need to be used and are provided for convenience to easily follow Flipper's guidelines.
 
+The Schematic symbol includes the GPIO function MUX table on the Info layer.
+
 See the `eagle/` folder for reference photos.
 
 
