@@ -5,3 +5,7 @@
 
 ## The full 18-pin Device with Measures layer turned on
 ![Full Connector](full-connector.png)
+
+
+## Full 18-pin non-RA Device with Measures and Flipper_GPIO_Dimension layer turned on
+![Full non-RA](full-non-ra-connector.png)
