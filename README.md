@@ -1,5 +1,17 @@
 # EDA libraries for Flipper Zero GPIO
 
+## KiCad
+Created in KiCad 8
+
+Has both right-angle and straight pin footprints and symbols for both the 8-pin connector, 10-pin connector, and full 18-pin connector. Right-angle in this context means it uses right-angle pin headers leaving the PCB in parallel with the Flipper Zero LCD screen.
+
+Each footprint includes a copy of the mechanical specifications of modules provided by [Flipper](https://docs.flipperzero.one/development/hardware/modules-blueprints) for the immediate board edge around the pin headers. These are on the `User.Drawings` layer.
+
+The schematic symbol includes the GPIO function MUX table.
+
+See the `kicad/` folder for reference photos.
+
+
 ## EagleCAD
 Created in 7.6.0 but should cleanly import to any newer EagleCAD release.
 
