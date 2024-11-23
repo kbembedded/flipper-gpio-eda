@@ -1,12 +1,12 @@
 # Installation
 ## Schematic Symbols
-- From the main KiCad meny, select `Preferences` then `Manage Symbol Libraries`
+- From the main KiCad menu, select `Preferences` then `Manage Symbol Libraries`
 - Select either `Global Libraries` or `Project Specfic Libraries` depending on your preferences
 - Select the folder icon that says `Add existing library to table`
 - Navigate to this folder and select `flipper-gpio.kicad_sym`
 
 ## Footprints
-- From the main KiCad meny, select `Preferences` then `Manage Footprint Libraries`
+- From the main KiCad menu, select `Preferences` then `Manage Footprint Libraries`
 - Select either `Global Libraries` or `Project Specfic Libraries` depending on your preferences
 - Select the folder icon that says `Add existing library to table`
 - Navigate to this folder and select the `flipper-gpio.pretty` folder
