@@ -22,7 +22,7 @@ Repository changes can be pulled in on your local machine, this should automatic
 
 
 ## Notes
-The footprints contain relevant outlines for the layout as recommended by Flipper Devices. These are on the `User.Drawings` layer and can be traced over on the `Edge.Cuts` layer when using them to define the board outline. Additionally, the straight pin header variantes (non-right-angle) contain notes on `F.Fab` and `B.Fab` to indicate which side is toward and away from the Flipper to ensure components are not placed incorrectly.
+The footprints contain relevant outlines for the layout as recommended by Flipper Devices. These are on the `User.Drawings` layer and can be traced over on the `Edge.Cuts` layer when using them to define the board outline. Additionally, the straight pin header variants (non-right-angle) contain notes on `F.Fab` and `B.Fab` to indicate which side is toward and away from the Flipper to ensure components are not placed incorrectly.
 
 
 # Reference Photos
